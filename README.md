@@ -1,8 +1,11 @@
 ##DJANGO REST FRAMEWORK
+
 It is a python library used to build web API
 
 Steps:
 1. Install lattest version of django
+    pip install virtualenv
+    virtualenv venv
     pip install django
 2. Start project
     django-admin startproject DRF
